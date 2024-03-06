@@ -1,0 +1,46 @@
+*{
+    background-color: black;
+}
+.big_div{
+    margin-top: 20px;
+}
+.home_link{
+    color: white;
+    padding-right: 20px;
+}
+.add_link{
+    color: white;
+    padding-left: 100px;
+}
+.int1{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.int2{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.selc{
+    background-color: white;
+    margin-top: 100px;
+}
+.op{
+    color: white;
+}
+.but1{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;
+    width: 100px;
+}
+.p1{
+    font-size: 25px;
+}
+.p3{
+    font-size: 20px;
+}
